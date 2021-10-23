@@ -1,1 +1,1 @@
-![Image of Daftpunktocat-Guy] (https://octodex.github.com/daftpunktocat-guy/)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
