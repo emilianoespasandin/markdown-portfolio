@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*this is interesting*
+__Every Crisis is an Opportunity to learn and evolve from it__
+*Covid-19* is a __HUGE lesson to the Planet__
